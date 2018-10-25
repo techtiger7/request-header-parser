@@ -1,0 +1,18 @@
+{
+  "name": "request-header-parser",
+  "version": "0.1.0",
+  "description": "a service to parse HTTP request header and return as JSON",
+  "author": "Tom Dickman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techtiger7/request-header-parser.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
